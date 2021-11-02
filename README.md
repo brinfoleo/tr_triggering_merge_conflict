@@ -1,4 +1,4 @@
-collaborators: Jarbie Dhaliwal and Leonardo Aquino
+collaborators: Jarbie Dhaliwal and Leonardo A
 
 👉 Triggering a merge conflict
 
