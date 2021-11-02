@@ -1,4 +1,4 @@
-collaborators: Jasbier Dhaliwal and Leonardo Aqua
+collaborators: Jarbie Dhaliwal and Leonardo A
 
 👉 Triggering a merge conflict
 
